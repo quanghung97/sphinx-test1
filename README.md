@@ -1,3 +1,6 @@
+# Flow Chart
+![flow chart](https://github.com/quanghung97/sphinx-test1/blob/master/sphinx-flow.png?raw=true)
+
 # Step 1
 download sphinx 3.6.1 https://sphinxsearch.com/downloads/current/
 
