@@ -1,10 +1,11 @@
 # Step 1
-download sphinx
-download mysql
+download sphinx 3.6.1 https://sphinxsearch.com/downloads/current/
+
+download mysql, recommend 5.7
 # Step 2
 in ```/etc```
 
-using setting sphinx.conf.dist => sphinx.conf and copy to /bin 
+using setting sphinx.conf.dist => sphinx.conf and copy to `/bin`
 
 # Step 3
 Create sample data from ```/etc/example.sql```
